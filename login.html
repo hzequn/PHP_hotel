@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>酒店管理信息系统后台登录</title>
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<link rel="stylesheet" href="css/swiper-3.4.2.min.css" />
+<link rel="stylesheet" href="css/style.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body>
+    <!--后台登录-->
+    <div class="login_div">
+        <div class="login_box clearfix">
+            <div class="fl">
+                <h2>欢迎您</h2>
+                <p>使用酒店信息管理系统后台</p>
+                <div class="login_img">
+                    <img src="img/logo_img.png" alt="欢迎使用酒店信息管理系统后台" title="欢迎使用酒店信息管理系统后台"/>
+                </div>
+            </div>
+            <form name="form1" method="post" action="login.php" class="fr">
+                <h3>登录</h3>
+                <div class="login_input">
+                    <input type="text" name="username" id="username" placeholder="用户名" autocomplete="off"/>
+                    <input type='text' style='display:none'> <!-- 针对firefox -->
+                    <img src="img/user_icon.png" alt="用户名图标" />
+                    <input name="login" type="hidden" id="login" value="1">
+                </div>
+                <div class="login_input">
+                    <input type="password" name="pwd" id="pwd"  placeholder="密码" autocomplete="new-password" readonly onFocus="this.removeAttribute('readonly');" onBlur="this.setAttribute('readonly',true);"/>
+                    <input type='text' style='display:none'> <!-- 针对firefox -->
+                    <img src="img/password_icon.png" alt="密码图标" />
+                </div>
+                <div class="login_btn">
+                	<input type="submit" value="登录">
+                    <input type="reset"  value="重置">
+                </div>
+            </form>
+		</div>
+    </div>
+    <!--后台登录end-->
+</body>
+</html>

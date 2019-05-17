@@ -1,4 +1,4 @@
-title: 基于php的酒店信息管理系统   
+title: 基于php的酒店信息管理系统
 createDate: 2019-05-17  
 author: 13414851033@163.com   
 

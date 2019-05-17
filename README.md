@@ -82,7 +82,7 @@ author: 13414851033@163.com
       ![登录](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055123(1).jpg "登录")
       
       + 用户个人后台
-      ![个人后台](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "个人后台")
+      ![个人后台](https://github.com/hzequn/PHP_hotel/blob/master/img/1558056467(1).jpg "个人后台")
       
   - 前台界面效果图
       + 后台功能界面

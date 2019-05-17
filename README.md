@@ -1,6 +1,6 @@
-title: 基于php的酒店信息管理系统
-createDate: 2019-05-17
-author: 13414851033@163.com  
+title: 基于php的酒店信息管理系统   
+createDate: 2019-05-17  
+author: 13414851033@163.com   
 
 # 系统介绍 
 
@@ -10,7 +10,7 @@ author: 13414851033@163.com
 
 - 前端
   + DIV+CSS布局
-  + JS+JQ++sweetalert插件等实现交互
+  + JS+JQ+sweetalert插件等实现交互
   + AJAX实现数据批量操作
 - 后台
   + PHP后台语言

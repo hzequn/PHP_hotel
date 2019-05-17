@@ -62,4 +62,9 @@ author: 13414851033@163.com
      + 酒店介绍添加
  - 系统设置
  
-![首页](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054657(1).png "首页")
+ ## 系统效果图
+ 
+  - 前台界面效果图
+      + 首页
+      ![首页](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054657(1).png "首页")
+      +

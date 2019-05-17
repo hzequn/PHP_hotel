@@ -68,6 +68,6 @@ author: 13414851033@163.com
       + 首页
       ![首页](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054657(1).png "首页")
       + 最新资讯
-      ![动态](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054698(1).png "动态")
+      ![动态](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054698(1).jpg "动态")
       + 客房列表
       ![客房](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054745(1).png "客房")

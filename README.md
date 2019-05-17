@@ -63,4 +63,4 @@ author: 13414851033@163.com
      + 酒店介绍添加
  - 系统设置
  
-
+![首页](https://github.com/hzequn/PHP_hotel.git/img/1558054657(1).PNG "首页")

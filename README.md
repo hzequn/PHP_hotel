@@ -66,8 +66,45 @@ author: 13414851033@163.com
  
   - 前台界面效果图
       + 首页
+      
       ![首页](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054657(1).png "首页")
+      
       + 最新资讯
+      
       ![动态](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054698(1).jpg "动态")
+      
       + 客房列表
+      
       ![客房](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054745(1).jpg "客房")
+      
+      + 注册登录
+      ![注册](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "注册")
+      ![登录](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055123(1).jpg "登录")
+      
+      + 用户个人后台
+      ![个人后台](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "个人后台")
+      
+  - 前台界面效果图
+      + 后台功能界面
+      
+      ![后台功能界面](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055154(1).jpg "后台功能界面")
+      
+      + 客房信息列表
+      
+      ![客房信息列表](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055189(1).jpg "客房信息列表")
+      
+      + 添加客房
+      
+      ![添加客房](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055210(1).jpg "添加客房")
+      
+      + 入住信息
+      
+      ![入住信息](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055226(1).jpg "入住信息")
+      
+      + 最新动态列表
+      
+      ![最新动态列表](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055240(1).jpg "最新动态列表")
+      
+      + 用户信息列表
+      
+      ![用户信息列表](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055255(1).jpg "用户信息列表")

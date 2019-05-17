@@ -78,6 +78,7 @@ author: 13414851033@163.com
       ![客房](https://github.com/hzequn/PHP_hotel/blob/master/img/1558054745(1).jpg "客房")
       
       + 注册登录
+      
       ![注册](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "注册")
       ![登录](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055123(1).jpg "登录")
       

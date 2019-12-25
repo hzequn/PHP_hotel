@@ -116,5 +116,5 @@ author: 13414851033@163.com
      以上就是本系统的总体概述，总体上实现了酒店信息管理系统的功能，在细节上还欠缺些把握，后期会继续优化系统。
      觉得有帮助的麻烦给个star，如果有不懂的地方可以私聊我共同探讨技术。
     
-## 本人博客：[我的博客](https://blog.csdn.net/Smell_rookie)
+## 本人博客：[https://blog.csdn.net/Smell_rookie](https://blog.csdn.net/Smell_rookie)
 ## 本人微信：huang009516
